@@ -48,6 +48,8 @@
                               &trans      &trans       &trans                &trans      &trans      &trans
                         >;
                 };
+    };
+};
 
 
 / {
@@ -93,11 +95,6 @@
             key-positions = <27 28>;
             bindings = <&kp K_PASTE>;
         };
-
-
-
-
-
 		combo_layer1 {
             timeout-ms = <50>;
             key-positions = <18 19 20>;
