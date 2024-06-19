@@ -98,9 +98,11 @@
 		combo_layer1 {
             timeout-ms = <50>;
             key-positions = <18 19 20>;
-            bindings = <&kp TG(1)>;
+            bindings = <&tog 1>;
         };
 
 
 
+ };
 };
+
